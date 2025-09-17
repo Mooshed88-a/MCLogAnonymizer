@@ -10,7 +10,7 @@
 
 # 软件截图
 
-![屏幕截图 2025-09-17 221844.png](m-attach://68cac350ef16ba3797e1593f)
+![屏幕截图 2025-09-17 221844.png](https://vip.123pan.cn/1815736616/yk6baz03t0n000d7w33hbxu5euj4dmreDIYPAIUwAqQPApxPAIYO.png)
 
 # 下载地址
 
@@ -18,7 +18,7 @@
 
 # 许可协议
 
-使用 [Unlicense](./license) 许可证发布。
+使用 [Unlicense](./LICENSE) 许可证发布。
 
 ```
 This is free and unencumbered software released into the public domain.
