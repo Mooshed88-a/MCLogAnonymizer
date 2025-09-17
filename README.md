@@ -15,7 +15,7 @@
 
 # 下载地址
 
-- Windows：![GitHub Release](https://github.com/Mooshed88-a/MCLogAnonymizer/releases)
+- Windows：[GitHub Release](https://github.com/Mooshed88-a/MCLogAnonymizer/releases)
 
 # 许可协议
 
