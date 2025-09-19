@@ -47,3 +47,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org/>
 ```
+
+本工具使用了以 [LGPLv3](https://doc.qt.io/qt-6/lgpl.html?utm_source=chatgpt.com) 协议分发的 [Qt6](https://www.qt.io/)。
+
